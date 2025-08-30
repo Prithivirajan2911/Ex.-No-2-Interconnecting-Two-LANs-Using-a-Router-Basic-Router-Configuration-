@@ -1,5 +1,7 @@
-# Date :
-## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
+# Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
+## Date : 22-08-2025
+## Name: Prithivirajan V
+## RegNo: 212223100042
 
 
 # Objective
@@ -52,10 +54,19 @@ Router(config-if)# ip address 192.168.2.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
-•	Router CLI configuration<br>
-•	IP configurations on PCs<br>
-•	Successful ping between PC0 and PC1<br>
+
+## •	IP configurations on PCs<br>
+
+<img width="1041" height="416" alt="Screenshot 2025-08-30 142429" src="https://github.com/user-attachments/assets/69694d28-2d00-41aa-952e-cdeebb9d0f7f" />
+
+## •	Router CLI configuration<br>
+
+<img width="1532" height="457" alt="Screenshot 2025-08-30 142442" src="https://github.com/user-attachments/assets/2541e536-5c40-4c9c-9242-4f624873ce0e" />
+
+## •	Successful ping between PC0 and PC1<br>
+
+<img width="863" height="877" alt="Screenshot 2025-08-30 142452" src="https://github.com/user-attachments/assets/85a20fd9-df82-4671-93d7-66480e0663d0" />
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
-
